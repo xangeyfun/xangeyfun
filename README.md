@@ -2,29 +2,16 @@
 
 # xangey
 
-python developer interested in self-hosting, linux, web development, and automation.
-
-[![My Skills](https://skillicons.dev/icons?i=python,c,sqlite,html,css,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,flask,sqlite,c,html,css,git)](https://skillicons.dev)
 
 </div>
+
+python developer. i make discord bots, flask apps, and whatever else seems interesting at 2am.
 
 ## currently
 
+- working on [**VoidWave**](https://github.com/xangeyfun/VoidWave), a discord leveling bot with ai chat
 - learning C
-- building discord bots
-- hosting websites and services
-- experimenting with linux
+- self-hosting random services and things
 
-## stats
-
-![](https://github-readme-stats.vercel.app/api?username=xangey_fun&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xangey_fun&layout=compact&theme=tokyonight)
-
----
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
-
-</div>
+i have a bunch of other projects scattered around my github. whether they're useful is a different question.
