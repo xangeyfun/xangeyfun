@@ -1,16 +1,30 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**xangeyfun/xangeyfun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# xangey
 
-Here are some ideas to get you started:
+python developer interested in self-hosting, linux, web development, and automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=python,c,sqlite,html,css,git)](https://skillicons.dev)
+
+</div>
+
+## currently
+
+- learning C
+- building discord bots
+- hosting websites and services
+- experimenting with linux
+
+## stats
+
+![](https://github-readme-stats.vercel.app/api?username=xangey_fun&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=xangey_fun&layout=compact&theme=tokyonight)
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/snake-output/snake.svg" alt="Snake animation" />
+
+</div>
