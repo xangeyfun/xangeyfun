@@ -15,3 +15,7 @@ python developer. i make discord bots, flask apps, and whatever else seems inter
 - self-hosting random services and things
 
 i have a bunch of other projects scattered around my github. whether they're useful is a different question.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/xangeyfun/xangeyfun/output/github-snake-dark.svg" />
+</p>
