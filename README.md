@@ -20,7 +20,7 @@ I build Discord bots, web apps, random tools, and occasionally things that proba
 
 ## currently
 
-* 🤖 Building **[VoidWave](https://github.com/xangeyfun/VoidWave)** — a Discord leveling bot with AI chat
+* 🤖 Building **[VoidWave](https://github.com/xangeyfun/VoidWave)**. a Discord leveling bot with AI chat
 * 🧠 Learning **C**
 * 🐧 Running Linux and breaking things on purpose
 * 🖥️ Self-hosting random services because why not
