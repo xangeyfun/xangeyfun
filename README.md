@@ -29,9 +29,9 @@ I build Discord bots, web apps, random tools, and occasionally things that proba
 
 #### 🌊 VoidWave
 
-A Discord bot focused on leveling, statistics, moderation, and AI chat.
+A Discord bot focused on leveling, statistics, moderation, music, and AI chat.
 
-**100+ servers · SQLite · Python · Discord.py**
+**150+ servers · SQLite · Python · Discord.py**
 
 [View the repository →](https://github.com/xangeyfun/VoidWave)
 
